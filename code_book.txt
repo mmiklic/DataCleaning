@@ -1,7 +1,9 @@
 Subject -> ID of a subject wearing the Samsung cell phone as described in ./UCI HAR Dataset/README.txt 
 ActivityLabel -> one of {WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING}
 
-The remaining variables are (mean) AVERAGES over all mean or std (standard deviation) measurements per Subject and Activity pair. More details on the original measurements can be found in ./UCI HAR Dataset/README.txt and ./UCI HAR Dataset/features_info.txt.  
+The remaining variables are (mean) AVERAGES over all mean or std (standard deviation) measurements per Subject and Activity pair. 
+
+More details on the original measurements can be found in ./UCI HAR Dataset/README.txt and ./UCI HAR Dataset/features_info.txt.  
  
 tBodyAcc.mean...X
 tBodyAcc.mean...Y
